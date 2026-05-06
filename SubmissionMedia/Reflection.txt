@@ -1,3 +1,12 @@
 Reflection:
 
-placeholder
+I did this Mad Birds project solo as a college final assignment. 
+This was a very involved process. Lots of what I thought was going to be simple turned out to be extremely complicated.
+For example, it told about two days of work to implement the physics that I thought would take seven hours, 
+as I had to spend a lot of time micromanaging the wgsl code to properly track the vertices of the objects in game.
+This was a problem across the board for much of the wgsl code, as it was more difficult to debug.
+This project helped me to learn about several topics: how to design an interesting level, 
+how to manage a game loop, and how to debug wgsl code. If I were to continue this project or do another project like this, 
+I would spend more time tweaking the physics and use nicer looking textures, 
+but I could work on those for weeks before finding the perfect answer. Now that I now how the flow of development works, 
+I know to say that some features are going to take longer.
